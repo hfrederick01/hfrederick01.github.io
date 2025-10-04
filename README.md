@@ -10,8 +10,10 @@ FIX ME ADD CODE REVIEW AND DESCRIPTION
 ## **Software Design and Engineering**
 
 #### **Original Project File**
+[Link to Original CS 320 Project](https://github.com/hfrederick01/hfrederick01.github.io/blob/main/CS%20320%20Project%20Original.zip)
 
 #### **Enhanced Project File**
+[Link to Enhanced CS 320 Project](https://github.com/hfrederick01/hfrederick01.github.io/blob/main/CS%20320%20Enhancement.zip)
 
 #### **Selected Artifact**
 For the Software Design and Engineering category, I chose to enhance my final project from CS 320, created in May of 2025. This project was developed for a mobile application client who needed a program to utilize in-memory data structures to store contact, task, and appointment information. Additionally, the program needed to meet various client requirements involving adding, deleting, and updating different aspects of a contact, task, or appointment. Finally, this program needed to incorporate unit testing to verify all of the specified requirements were met and functioning properly.
