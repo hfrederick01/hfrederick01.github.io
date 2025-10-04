@@ -10,7 +10,7 @@ FIX ME ADD CODE REVIEW AND DESCRIPTION
 ## **Software Design and Engineering**
 
 #### **Original Project File**
-[Link to Original CS 320 Project](https://github.com/hfrederick01/hfrederick01.github.io/blob/main/CS%20320%20Project%20Original.zip)
+[Link to Original CS 320 Project](https://github.com/hfrederick01/hfrederick01.github.io/tree/main/CS%20320%20Project)
 
 #### **Enhanced Project File**
 [Link to Enhanced CS 320 Project](https://github.com/hfrederick01/hfrederick01.github.io/blob/main/CS%20320%20Enhancement.zip)
