@@ -5,7 +5,9 @@ My name is Hannah Frederick and this page serves as my CS499 Computer Science Ca
 FIX ME NEEDS ADDED
 
 ## **Code Review**
-FIX ME ADD CODE REVIEW AND DESCRIPTION
+Below is a link to an informal code review further discussing the functionality of the original artifacts selected, a code analysis of each artifact, and my planned enhancements to each artifact for each of the three key categories.
+
+[Code Review](https://www.youtube.com/watch?v=SFkBWl7zdB0)
 
 ## **Software Design and Engineering**
 
