@@ -41,7 +41,7 @@ While enhancing and modifying the artifact I ran into a few challenges. To begin
 
 ## **Algorithms and Data Structure**
 #### **Original Project File**
-FIX ME ADD
+[Link to Original CS 340 Project](https://github.com/hfrederick01/hfrederick01.github.io/tree/main/CS%20340%20Project)
 
 #### **Enhanced Project File**
 FIX ME ADD
