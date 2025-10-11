@@ -2,7 +2,7 @@
 My name is Hannah Frederick and this page serves as my CS499 Computer Science Capstone, showcasing my growth while in the Computer Science program at SNHU. My skills and abilities will displayed through the revision of two artifacts highlighting growth in three key categories: Software Design and Engineering, Algorithms and Data Structures, and Databases.
 
 ## **Self-Assessment**
-###Coursework at SNHU
+### Coursework at SNHU
 Completing the coursework throughout the Computer Science program and developing this ePortfolio has helped me showcase my strengths, shape my professional goals and values, and prepare myself to become more employable in the computer science field. I began this program with very little knowledge of the computer science field, so I have learned a lot throughout my time in this program. 
 In CS-250 Software Development Lifecycle I learned about the software development lifecycle and the different approaches that can be taken to complete a project in a team environment. I found learning about agile approaches such as scrum and kanban to be most interesting and have even started incorporating aspects of these methods into my work and daily life.
 CS-250 Software Development Lifecycle also taught me a lot about when and how to communicate with stakeholders. I learned to ensure I had a clear understanding of what was expected of me before starting a project. I also learned that this may not be possible and that expectations and goals would most likely change and evolve as development of the program progressed, so frequent communication with stakeholders and adapting to meet new expectations is important in ensuring the end result aligns with stakeholder’s final expectations and requirements. Many other courses including CS-360 also highlighted delivering project proposals to communicate technical plans and ideas to non computer science individuals on the team which is an important skill to have in the workforce.
@@ -44,7 +44,7 @@ While enhancing and modifying the artifact I ran into a few challenges. To begin
 [Link to Original CS 340 Project](https://github.com/hfrederick01/hfrederick01.github.io/tree/main/CS%20340%20Project)
 
 #### **Enhanced Project File**
-FIX ME ADD
+[Link to Enhanced CS 340 Project](https://github.com/hfrederick01/hfrederick01.github.io/tree/main/CS%20340%20Project%202%20Enhancement)
 
 #### **Selected Artifact**
 For my Algorithms and Data Structures category enhancement I selected my CS 340 Final Project, a database and dashboard project built for the client, Grazioso Salvare. Created in August 2025, this project was built to help the client identify good candidates at 5 animal shelters in the Austin, Texas area for their rescue dog training programs. This project originally utilized a MongoDB shell to store the database and Dash to create a user-friendly dashboard that displays information from the database. The dashboard contains a dynamic geolocation map and pie chart that update based off the data shown in the data table at the top of the page, which can be filtered using preset conditions at the top of the table.
