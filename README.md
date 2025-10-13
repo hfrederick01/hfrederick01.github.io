@@ -36,7 +36,7 @@ Below is a link to an informal code review further discussing the functionality 
 #### **Enhanced Project File**
 [Link to Enhanced CS 320 Project](https://github.com/hfrederick01/hfrederick01.github.io/tree/main/CS%20320%20Enhancement)
 
-#### **Selected Artifact**
+### **Selected Artifact**
 For the Software Design and Engineering category, I chose to enhance my final project from CS 320, created in May of 2025. This project was developed for a mobile application client who needed a program to utilize in-memory data structures to store contact, task, and appointment information. Additionally, the program needed to meet various client requirements involving adding, deleting, and updating different aspects of a contact, task, or appointment. Finally, this program needed to incorporate unit testing to verify all of the specified requirements were met and functioning properly.
 
 ### **Justification of Selecting Artifiact**
@@ -52,7 +52,7 @@ While enhancing and modifying the artifact I ran into a few challenges. To begin
 #### **Enhanced Project File**
 [Link to Enhanced CS 340 Project](https://github.com/hfrederick01/hfrederick01.github.io/tree/main/CS%20340%20Project%202%20Enhancement)
 
-#### **Selected Artifact**
+### **Selected Artifact**
 For my Algorithms and Data Structures category enhancement I selected my CS 340 Final Project, a database and dashboard project built for the client, Grazioso Salvare. Created in August 2025, this project was built to help the client identify good candidates at 5 animal shelters in the Austin, Texas area for their rescue dog training programs. This project originally utilized a MongoDB shell to store the database and Dash to create a user-friendly dashboard that displays information from the database. The dashboard contains a dynamic geolocation map and pie chart that update based off the data shown in the data table at the top of the page, which can be filtered using preset conditions at the top of the table.
 
 ### **Justification of Selecting Artifiact**
@@ -69,7 +69,7 @@ Throughout the process of enhancing and modifying the project I ran into many pr
 #### **Enhanced Project File**
 [Link to Enhanced CS 340 Project](https://github.com/hfrederick01/hfrederick01.github.io/tree/main/CS%20340%20Project%202%20Enhancement)
 
-#### **Selected Artifact**
+### **Selected Artifact**
 For my Databases category enhancement I selected the same CS 340 Final Project from the Algorithms and Data Structure category. To recap, the CS 340 Final Project is a database and dashboard project built for the client, Grazioso Salvare. Created in August 2025, this project was built to help the client identify good candidates at 5 animal shelters in the Austin, Texas area for their rescue dog training programs. This project originally utilized a MongoDB shell to store the database and Dash to create a user-friendly dashboard that displays information from the database. The dashboard contains a dynamic geolocation map and pie chart that update based off the data shown in the data table at the top of the page, which can be filtered using preset conditions at the top of the table.
 
 ### **Justification of Selecting Artifiact**
