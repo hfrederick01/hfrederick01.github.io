@@ -78,6 +78,7 @@ I selected this artifact because I enjoyed building the project and the end resu
 ### **Reflection of Enhancing Artifiact**
 While enhancing the project I learned how to incorporate K Means Clustering into a program. I followed a great K-Means Clustering Algorithm tutorial by Pulkit Sharma, so the coding process was relatively smooth (Sharma, 2025). One issue I ran into was that I was trying to use a column that utilizes strings as one of my parameters, the outcome_type column. In order to use properly use this algorithm the parameter has to be an integer so I had to encode the outcome_type column as an integer before I could get the results I was looking for. After it was encoded, the x axis was left as integers when visualizing the data, which is not beneficial for someone trying to read the scatter plot. I then had to learn how to take the integer category values and reassign the corresponding category names on the scatter plot for readability. Other than that issue, incorporating K Means Clustering was a smooth process that helped me better understand how the K Means Clustering algorithm works and how to incorporate it into my programs.
 
-<p align="center">
-**_References_** </p>
+<p align="center"><strong><u>References</u></strong></p>
+<div style = "text-indent:-1.5em; padding-left:1.5em;">
 Sharma, P. (2025, May 1). K-means clustering algorithm. Analytics Vidhya. https://www.analyticsvidhya.com/blog/2019/08/comprehensive-guide-k-means-clustering/#h-how-k-means-clustering-works
+</div>
