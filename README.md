@@ -64,5 +64,21 @@ Throughout the process of enhancing and modifying the project I ran into many pr
 ## **Databases**
 
 #### **Original Project File**
+[Link to Original CS 340 Project](https://github.com/hfrederick01/hfrederick01.github.io/tree/main/CS%20340%20Project)
 
 #### **Enhanced Project File**
+[Link to Enhanced CS 340 Project](https://github.com/hfrederick01/hfrederick01.github.io/tree/main/CS%20340%20Project%202%20Enhancement)
+
+#### **Selected Artifact**
+For my Databases category enhancement I selected the same CS 340 Final Project from the Algorithms and Data Structure category. To recap, the CS 340 Final Project is a database and dashboard project built for the client, Grazioso Salvare. Created in August 2025, this project was built to help the client identify good candidates at 5 animal shelters in the Austin, Texas area for their rescue dog training programs. This project originally utilized a MongoDB shell to store the database and Dash to create a user-friendly dashboard that displays information from the database. The dashboard contains a dynamic geolocation map and pie chart that update based off the data shown in the data table at the top of the page, which can be filtered using preset conditions at the top of the table.
+
+### **Justification of Selecting Artifiact**
+I selected this artifact because I enjoyed building the project and the end result is something I could see myself replicating or using as inspiration for a similar project in the future. Transferring the project from the MongoDB database to MongoDB Compass demonstrates my ability to use well-founded and innovative techniques and tools to design a user-friendly program that solves identified problems. An additional improvement I made includes incorporating data mining through use of K Means Clustering to identify hidden patterns between an animal’s age and their outcome type. Use of k-means clustering to data mine demonstrates my skills of understanding of algorithmic principles, machine learning, and the value of analyzing and identifying trends in databases. 
+
+### **Reflection of Enhancing Artifiact**
+While enhancing the project I learned how to incorporate K Means Clustering into a program. I followed a great K-Means Clustering Algorithm tutorial by Pulkit Sharma, so the coding process was relatively smooth (Sharma, 2025). One issue I ran into was that I was trying to use a column that utilizes strings as one of my parameters, the outcome_type column. In order to use properly use this algorithm the parameter has to be an integer so I had to encode the outcome_type column as an integer before I could get the results I was looking for. After it was encoded, the x axis was left as integers when visualizing the data, which is not beneficial for someone trying to read the scatter plot. I then had to learn how to take the integer category values and reassign the corresponding category names on the scatter plot for readability. Other than that issue, incorporating K Means Clustering was a smooth process that helped me better understand how the K Means Clustering algorithm works and how to incorporate it into my programs.
+
+<p align="center">
+## <u>**References**</u>
+Sharma, P. (2025, May 1). K-means clustering algorithm. Analytics Vidhya. https://www.analyticsvidhya.com/blog/2019/08/comprehensive-guide-k-means-clustering/#h-how-k-means-clustering-works 
+</p>
