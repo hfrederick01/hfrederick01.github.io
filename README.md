@@ -44,6 +44,7 @@ I selected this artifact to include in my ePortfolio because it was a project th
 
 ### Course Outcomes Met 
 The addition of these enhancements align with the following course outcomes:
+
 •	Employ strategies for building collaborative environments that enable diverse audiences to support organizational decision-making in the field of computer science.  
 •	Design and evaluate computing solutions that solve a given problem using algorithmic principles and computer science practices and standards appropriate to its solution while managing the trade-offs involved in design choices.  
 •	Demonstrate an ability to use well-founded and innovative techniques, skills, and tools in computing practices for the purpose of implementing computer solutions that deliver value and accomplish industry-specific goals.
@@ -66,6 +67,7 @@ I selected this artifact because I enjoyed building the project and the end resu
 
 ### Course Outcomes Met 
 The addition of these enhancements align with the following course outcomes:
+
 •	Employ strategies for building collaborative environments that enable diverse audiences to support organizational decision-making in the field of computer science.  
 •	Design, develop, and deliver professional-quality oral, written, and visual communications that are coherent, technically sound, and appropriately adapted to specific audiences and contexts.  
 •	Design and evaluate computing solutions that solve a given problem using algorithmic principles and computer science practices and standards appropriate to its solution while managing the trade-offs involved in design choices.  
@@ -91,6 +93,7 @@ I selected this artifact because I enjoyed building the project and the end resu
 
 ### Course Outcomes Met 
 The addition of these enhancements align with the following course outcomes:
+
 •	Employ strategies for building collaborative environments that enable diverse audiences to support organizational decision making in the field of computer science 
 •	Design, develop, and deliver professional-quality oral, written, and visual communications that are coherent, technically sound, and appropriately adapted to specific audiences and contexts
 •	Demonstrate an ability to use well-founded and innovative techniques, skills, and tools in computing practices for the purpose of implementing computer solutions that deliver value and accomplish industry-specific goals
