@@ -43,7 +43,7 @@ For the Software Design and Engineering category, I chose to enhance my final pr
 ### **Justification of Selecting Artifiact**
 I selected this artifact to include in my ePortfolio because it was a project that was originally not written in Python. I would like to be a healthcare data analyst, and I know that Python is a popular language for data analysts to use. As I draw closer to the end of my degree program, I would like to start practicing the skills I will need in my desired career field, and I have not coded in Python in quite some time so enhancing the project by transferring it from Java into Python is great practice. This enhancement allows for a more diverse audience to utilize the program as Python is a language that’s utilized by people both in and out of the computer science field. Additionally, I did not have any experience with unit testing in Python, so this presented an opportunity to learn and refine this skill. The implementation of unit testing displays knowledge of well-founded techniques, skills, and tools needed when coding an accurate and efficient program. Also, the use of object-oriented programming to modularize the functioning parts of the program to make it more efficient and reusable displays skills of utilizing best practices when developing a program. Similarly, choosing to not use object-oriented programming for the testing files displays my understanding of Pytest and the way it was designed to be implemented. Finally, my naming of variables, overall structure, spacing, and comments further demonstrate my ability to follow general best practices when developing a program in order to create simple, clean, and clear code.
 
-### Course Outcomes Met 
+### **Course Outcomes Met** 
 The addition of these enhancements align with the following course outcomes:
 
 •	Employ strategies for building collaborative environments that enable diverse audiences to support organizational decision-making in the field of computer science.  
@@ -66,7 +66,7 @@ For my Algorithms and Data Structures category enhancement I selected my CS 340 
 ### **Justification of Selecting Artifiact**
 I selected this artifact because I enjoyed building the project and the end result is something I could see myself replicating or using as inspiration for a similar project in the future.  Also, this project already had a focus on simple algorithms and data structures, so I wanted to improve some of these features, specifically the filtering options available in the data table. Additionally, adding the option for users to be able to switch the type of chart displayed on the dashboard further exhibited my ability to think about users and how they will interact with the program, provide professional visuals, and deliver proactive solutions to industry specific problems. Also, removing the hardcoded username and password and instead reading in and hashing user input demonstrates my ability to anticipate security exploits and mitigate design flaws. Finally, I made the ProjectTwoDashboard file more effective by ensuring this file followed Object Oriented Programming principles as it was the only file in the project not originally set up in this way.
 
-### Course Outcomes Met 
+### **Course Outcomes Met** 
 The addition of these enhancements align with the following course outcomes:
 
 •	Employ strategies for building collaborative environments that enable diverse audiences to support organizational decision-making in the field of computer science.  
@@ -92,7 +92,7 @@ For my Databases category enhancement I selected the same CS 340 Final Project f
 ### **Justification of Selecting Artifiact**
 I selected this artifact because I enjoyed building the project and the end result is something I could see myself replicating or using as inspiration for a similar project in the future. Transferring the project from the MongoDB database to MongoDB Compass demonstrates my ability to use well-founded and innovative techniques and tools to design a user-friendly program that solves identified problems. An additional improvement I made includes incorporating data mining through use of K Means Clustering to identify hidden patterns between an animal’s age and their outcome type. Use of k-means clustering to data mine demonstrates my skills of understanding of algorithmic principles, machine learning, and the value of analyzing and identifying trends in databases. 
 
-### Course Outcomes Met 
+### **Course Outcomes Met** 
 The addition of these enhancements align with the following course outcomes:
 
 •	Employ strategies for building collaborative environments that enable diverse audiences to support organizational decision making in the field of computer science 
