@@ -1,5 +1,5 @@
 ## **Page Overview**
-My name is Hannah Frederick and this page serves as my CS499 Computer Science Capstone, showcasing my growth while in the Computer Science program at SNHU. My skills and abilities will displayed through the revision of two artifacts highlighting growth in three key categories: Software Design and Engineering, Algorithms and Data Structures, and Databases.
+My name is Hannah Frederick and this page serves as my CS499 Computer Science Capstone, showcasing my growth while in the Computer Science program at SNHU. On this page, my skills and abilities will be displayed through the revision of two artifacts highlighting growth in three key categories: Software Design and Engineering, Algorithms and Data Structures, and Databases.
 
 ## **Self-Assessment**
 ### Coursework at SNHU
